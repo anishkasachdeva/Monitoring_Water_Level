@@ -4,7 +4,7 @@
 #include <EEPROM.h>
 
 char* wifi_ssid[3] = {"Subibroo","Chikka","JioFi3_126C36"};
-char* wifi_pwd[3] = {"68729844","gbid24550","4p7ce3t8vv"};
+char* wifi_pwd[3] = {"68729844","abcdefgh","4p7ce3t8vv"};
 //String cse_ip = "192.168.43.59";
 //String cse_ip = "139.59.42.21";
 String cse_ip = "onem2m.iiit.ac.in";
